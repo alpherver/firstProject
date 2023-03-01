@@ -1,0 +1,58 @@
+body {
+    background-color:#F1DBBF;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;   
+    padding: 20px; 
+}
+
+.header{
+    color: brown;
+    text-align: center;
+}
+.header a{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+}
+h2 {
+    color: brown;
+}
+
+
+.acıklama h2{
+    text-align: center;
+    color: brown;
+}
+.acıklama p {
+    text-align: center;
+}
+.list h3{
+    text-align: center;
+    color:brown;
+}
+.list ul{
+list-style-position: inside;
+text-align: center;
+}
+.header-bar{
+    text-align: center;
+    color: brown;
+    
+}
+
+.header-bar a{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+}
+.img h2{
+    color: brown;
+    text-align: center;
+}
+.img li {
+    text-align: center;
+    list-style-position: inside;
+}
